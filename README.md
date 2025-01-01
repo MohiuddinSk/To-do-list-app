@@ -4,7 +4,7 @@ This is the first group project of me and my friends
 <br>
 team members:- 
 <br>
-1.Mohiuddin Shaikh
+1.Md Mohiuddin Shaikh
 <br>
 2.Leander Menezes
 <br>
